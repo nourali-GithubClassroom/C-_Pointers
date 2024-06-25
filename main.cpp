@@ -4,6 +4,7 @@ using namespace std;
 
 void increment(int* p) {
     // Function implementation
+    //
 }
 
 
